@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [WebÁgora](https://github.com/Stegonyrob/WebAgora)
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning in Bootcamp F5
 
 - 📫 How to reach me **stegonirob@gmail.com**
 
