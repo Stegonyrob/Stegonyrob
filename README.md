@@ -7,14 +7,11 @@
 
 <div>
 I recently completed two intensive bootcamps that have allowed me to acquire a solid foundation in various programming languages and development methodologies. My experience encompasses both front-end and back-end development, enabling me to create complete and functional web applications.
+  
 </div>
 
 <div>
 
-![Views counter](https://komarev.com/ghpvc/?username=stegonyrob&color=ff69b4&style=flat-square&abbreviated=true)
-[![GitHub: stegonyrob](https://img.shields.io/github/followers/stegonyrob?label=follow&style=social)](https://github.com/stegonyrob)
-
-</div>
 
 ##### My primary technical strengths include:
 
@@ -25,10 +22,10 @@ I recently completed two intensive bootcamps that have allowed me to acquire a s
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<img width="30px" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" >
+<img width="330px" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" >
 
 
-<h2><img width="30px" src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" > More about me</h2>
+<h2><img width="40px" src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" > More about me</h2>
 
 <details>
   <summary>Tech Stack</summary>
@@ -88,19 +85,15 @@ I am confident that I can be a valuable asset to any team seeking an enthusiasti
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stegonyrob&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stegonyrob&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br />
 ![](https://github-readme-activity-graph.vercel.app/graph?username=stegonyrob&theme=tokyo-night)
-
-
 </details>
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stegonyrob&label=Profile%20views&color=0e75b6&style=flat" alt="stegonyrob" /> </p>
-
-
 
 - 🔭 I’m currently working on [WebÁgora](https://github.com/Stegonyrob/WebAgora)
 
 - 🌱 I’m currently learning in Oracle Java Fundamentals
 
 - 📫 How to reach me **stegonirob@gmail.com**
+
+
+[![GitHub: stegonyrob](https://img.shields.io/github/followers/stegonyrob?label=follow&style=social)](https://github.com/stegonyrob)
+<img src="https://komarev.com/ghpvc/?username=stegonyrob&label=Profile%20views&color=0e75b6&style=flat" alt="stegonyrob" /> 
+</div>
